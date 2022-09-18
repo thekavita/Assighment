@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+.container{
+    background-color:white;
+    color: black;
+    
+    font-size: 10px;
+}
+
+.container p{
+    margin-left: 20px;
+}
